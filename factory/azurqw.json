@@ -1,9 +1,0 @@
-{
-	"name": "azurqw",
-	"location": "centralindia",
-	"identity": {
-		"type": "SystemAssigned",
-		"principalId": "5221fdd1-4541-4ffb-bf5d-b9a9a502a75a",
-		"tenantId": "efb51a2a-04c1-49ae-96fd-83cfed03c009"
-	}
-}
