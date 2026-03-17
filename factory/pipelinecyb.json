@@ -1,0 +1,9 @@
+{
+	"name": "pipelinecyb",
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "69b71343-6e75-49ed-8e68-662e9d03579a",
+		"tenantId": "efb51a2a-04c1-49ae-96fd-83cfed03c009"
+	}
+}
